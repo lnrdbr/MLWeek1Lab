@@ -107,11 +107,6 @@ The script includes matplotlib visualization to show missing values before clean
 - Systematic approach to data transformation
 - Output validation with info() and missing value checks
 
-## Repository Information
-- **GitHub Repository**: [Your GitHub URL here]
-- **Visibility**: Public (as requested in lab instructions)
-- **Contents**: Complete source code, cleaned dataset, and documentation
-
 ## Future Applications
 The cleaned dataset is now ready for:
 - Exploratory Data Analysis (EDA)
